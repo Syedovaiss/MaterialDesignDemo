@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaterialDesignDemo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="person">person</string>
+    <string name="radio">radio</string>
+    <string name="headset">headset</string>
+</resources>

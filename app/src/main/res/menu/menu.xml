@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/headset"
+        android:title="item01" />
+    <item
+        android:icon="@drawable/login"
+        android:title="item02" />
+    <item
+        android:icon="@drawable/man"
+        android:title="item03" />
+    <item
+        android:icon="@drawable/radio"
+        android:title="item04" />
+
+
+
+</menu>

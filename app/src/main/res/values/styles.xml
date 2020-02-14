@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <item name="bottomAppBarStyle">@style/Widget.MaterialComponents.BottomAppBar</item>
+
+        <item name="shapeAppearanceLargeComponent"></item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#9965F4</item>
+        <item name="colorPrimaryDark">@color/startColorToolbar</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorError">@color/design_default_color_error</item>
+    </style>
+
+</resources>
