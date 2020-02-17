@@ -6,4 +6,7 @@
     <color name="rippleColor">#9989f5</color>
     <color name="startColorToolbar">#d53369</color>
     <color name="endColorToolbar">#cbad6d</color>
+    <color name="bottomAppBarColor">#9D6FFF</color>
+    <color name="floatingAction">#530DEC</color>
+    <color name="white">#FFFFFF</color>
 </resources>

@@ -4,7 +4,6 @@
     <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
         <item name="bottomAppBarStyle">@style/Widget.MaterialComponents.BottomAppBar</item>
 
-        <item name="shapeAppearanceLargeComponent"></item>
         <!-- Customize your theme here. -->
         <item name="colorPrimary">#9965F4</item>
         <item name="colorPrimaryDark">@color/startColorToolbar</item>

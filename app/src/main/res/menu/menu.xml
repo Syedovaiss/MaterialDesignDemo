@@ -3,17 +3,16 @@
 
     <item
         android:icon="@drawable/headset"
-        android:title="item01" />
+        android:title="@string/headset" />
     <item
         android:icon="@drawable/login"
-        android:title="item02" />
+        android:title="@string/user" />
     <item
         android:icon="@drawable/man"
-        android:title="item03" />
+        android:title="@string/person" />
     <item
         android:icon="@drawable/radio"
-        android:title="item04" />
-
+        android:title="@string/radio" />
 
 
 </menu>
